@@ -1,0 +1,1 @@
+rsync -avxHAX --progress --exclude-from=exclude.list root@176.58.119.56:/ /
