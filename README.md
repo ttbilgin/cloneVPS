@@ -1,7 +1,7 @@
 # cloneVPS
 This script is used to clone Linode, digitalocean etc VPS to local Virtualbox server.
 
-## install
+## requirements
 sudo apt-get install rsync
 
 ## run
